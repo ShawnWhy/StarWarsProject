@@ -1,0 +1,35 @@
+#gamingArea{
+width:100%;
+border:5px double white;
+height:600px;
+margin:0 auto;
+background-repeat:no-repeat;
+background-position: right bottom;
+background-color:black;
+background-size: 70%;
+overflow: hidden;
+
+
+
+}
+
+
+.playerCharacters{
+  
+    overflow:hidden;
+    float:right;
+    margin:5px;
+    
+}
+
+.characterPortrait{
+    width:100px;
+    height:125px;
+    border:3px solid white;
+}
+.characterName{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
